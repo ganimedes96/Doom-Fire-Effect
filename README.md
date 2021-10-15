@@ -15,7 +15,8 @@
 
 <p align="center">Simple Project, Recreating the fire particles effect of the DOOM game using pure javascript.</p>
 
- <h2 align="center" >Author></h2>
-
-| [<img align="center" src="https://avatars0.githubusercontent.com/u/782333?v=3&s=115"><br><sub>@mccraveiro</sub>](https://github.com/mccraveiro) |
+ <h2 align="center" >Author</h2>
+ <div align="center"> 
+| [<img  src="https://avatars0.githubusercontent.com/u/782333?v=3&s=115"><br><sub>@mccraveiro</sub>](https://github.com/mccraveiro) |
 | :---: |
+</div>
