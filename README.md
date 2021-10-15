@@ -12,7 +12,7 @@
 
 <h1 align="center"> Doom Fire Algorithm</h1>
   <div align="center">
-- [Click here for the Demo page](https://doom-fire-effect.vercel.app)
+- [Click here for the Demo page](https://doom-fire-effect.vercel.app)<br>
   This project was inspired by [this article](http://fabiensanglard.net/doom_fire_psx/).
 </div>
   <p align="center">Simple Project, Recreating the fire particles effect of the DOOM game using pure javascript.</p>
