@@ -9,9 +9,11 @@
     <img src=".github/Doomfire.gif" width="800">
   </a>
 </p>
-- [Click here for the Demo page](https://doom-fire-effect.vercel.app)
 
 <h1 align="center"> Doom Fire Algorithm</h1>
-
-<p align="center">Simple Project, Recreating the fire particles effect of the DOOM game using pure javascript.</p>
+  <div align="center">
+- [Click here for the Demo page](https://doom-fire-effect.vercel.app)
+  This project was inspired by [this article](http://fabiensanglard.net/doom_fire_psx/).
+</div>
+  <p align="center">Simple Project, Recreating the fire particles effect of the DOOM game using pure javascript.</p>
 
