@@ -11,6 +11,6 @@
 </p>
 
 
-#<h2 align="center"> Doom Fire Algorithm</h2>
+<h1 align="center"> Doom Fire Algorithm</h1>
 
 <p align="center">Fire effect from Doom implemented in plain JavaScript and using a canvas image data to render the final effect.</p>
