@@ -1,7 +1,7 @@
 
 
 
-<h1 text-align="cente" ><a href="https://fontmeme.com/doom-font/"><img src="https://fontmeme.com/permalink/211015/70899727f7c97240063c5f4d37356491.png" alt="doom-font" border="0" ></a></h1>
+<h1  ><a href="https://fontmeme.com/doom-font/"><img src="https://fontmeme.com/permalink/211015/70899727f7c97240063c5f4d37356491.png" alt="doom-font" border="0" text-align="cente"    ></a></h1>
 
 <p align="center">
   <a href="">
