@@ -1,0 +1,16 @@
+{
+    "name": "Doom Fire Effect",
+    "short_description": "Doom Fire Algorithm",
+    "description": "Simple Project, Recreating the fire particles effect of the DOOM game using pure javascript.",
+    "images": [
+      "https://raw.githubusercontent.com/ganimedes96/dtmoney/main/.github/Doomfire.gif"
+    ],
+    "link_preview": "https://github.com/ganimedes96/Doom-Fire-Effect",
+    "techs": [
+      {
+        "name": "React.js",
+        "url": "https://reactjs.org/"
+      }
+      
+    ]
+  }
